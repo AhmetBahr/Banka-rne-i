@@ -1,0 +1,1 @@
+Algoritma2 için class mantığını anlamak için yapılan basit class örnekleri
